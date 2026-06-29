@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.exe
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.deps.json
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.runtimeconfig.json
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.dll
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.pdb
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.AssemblyInfo.cs
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.dll
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\refint\Jogo da Forca.dll
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.pdb
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.genruntimeconfig.cache
+C:\Users\user\Desktop\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\ref\Jogo da Forca.dll
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.exe
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.deps.json
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.runtimeconfig.json
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.dll
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\bin\Debug\net8.0\Jogo da Forca.pdb
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.AssemblyInfoInputs.cache
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.AssemblyInfo.cs
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.csproj.CoreCompileInputs.cache
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.dll
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\refint\Jogo da Forca.dll
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.pdb
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\Jogo da Forca.genruntimeconfig.cache
+E:\Escola 29-04\1MD2\01-12-25\Jogo da Forca\Jogo da Forca\obj\Debug\net8.0\ref\Jogo da Forca.dll
