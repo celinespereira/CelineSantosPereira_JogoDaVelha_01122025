@@ -4,7 +4,7 @@ Este repositório reúne uma atividade desenvolvida durante uma aula, com o obje
 
 ## Conteúdo
 
-- Jogo da Forca.
+Jogo da Forca - Implementa o jogo da forca em C# (Console). Um jogador cadastra de 3 a 10 palavras, o sistema escolhe uma palavra aleatoriamente e o outro jogador tenta adivinhá-la, letra por letra, com no máximo 6 erros. Ao final, o programa informa se o jogador venceu ou perdeu e revela a palavra correta.
 
 ## Objetivos
 
